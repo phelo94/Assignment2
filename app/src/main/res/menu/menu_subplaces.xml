@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuHome"
+        android:orderInCategory="100"
+        android:title="@string/menuHome"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuRatings"
+        android:orderInCategory="100"
+        android:title="@string/menuRatings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuPlace"
+        android:orderInCategory="100"
+        android:title="@string/menuPlaces"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuDonate"
+        android:orderInCategory="100"
+        android:title="Donate"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuReport"
+        android:orderInCategory="100"
+        android:title="@string/menuReport"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuJournal"
+        android:orderInCategory="100"
+        android:title="Journal"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuCamera"
+        android:orderInCategory="100"
+        android:title="Camera"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuLogout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+
+</menu>

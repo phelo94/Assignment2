@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ie.app.visitwaterford.ie.app.activities.Home">
+
+
+    <item
+        android:id="@+id/menuHome"
+        android:orderInCategory="100"
+        android:title="@string/menuHome"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuRatings"
+        android:orderInCategory="100"
+        android:title="@string/menuRatings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuPlace"
+        android:orderInCategory="100"
+        android:title="Place"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuDonate"
+        android:orderInCategory="100"
+        android:title="@string/menuDonate"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuJournal"
+        android:orderInCategory="100"
+        android:title="Journal"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuCamera"
+        android:orderInCategory="100"
+        android:title="Camera"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuLogout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+</menu>

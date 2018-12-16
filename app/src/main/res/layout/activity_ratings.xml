@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="ie.app.activities.Ratings">
+
+
+    <TextView
+        android:id="@+id/ratingsTitlePage"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:fontFamily="@font/imprima"
+        android:text="@string/ratingsTitlePage"
+        android:textAlignment="center"
+        android:textColor="#9F59CC"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/ratingsListTitle"
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:text="@string/ratingsListTitle"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <ListView
+        android:id="@+id/list_item"
+        android:layout_width="match_parent"
+        android:layout_height="384dp"></ListView>
+
+</LinearLayout>
