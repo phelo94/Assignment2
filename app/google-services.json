@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142248499488",
+    "firebase_url": "https://waterford-b281e.firebaseio.com",
+    "project_id": "waterford-b281e",
+    "storage_bucket": "waterford-b281e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142248499488:android:b1cd9d47480e4f2a",
+        "android_client_info": {
+          "package_name": "ie.app.visitwaterford"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142248499488-n84gth7nmsjvrrmg0f62h0npmu90rtrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.app.visitwaterford",
+            "certificate_hash": "4593d3ed8e6697ba9fb17489f348c4ac7836f367"
+          }
+        },
+        {
+          "client_id": "142248499488-b7e3678j6c3p42gfu9ennip1a6leoau4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpaSfW7jUuyikGLicgKUB40IedQjI4anU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142248499488-b7e3678j6c3p42gfu9ennip1a6leoau4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
